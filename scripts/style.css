@@ -1,0 +1,43 @@
+.hhh1{
+	color: blue;
+	text-align: center;
+}
+.test1{
+	border-style: dotted;
+	position: relative;
+
+}
+.kartinka{
+}
+body {
+  background-color: #acc4b4;
+}
+.headerr{
+	position: relative;
+	width: 1922px;
+	left: -10px;
+	top: -10px;
+	height: 100px;
+	background-color: #255344;
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: url("img_parallax.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  left: -30px;
+  width: 1922px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.zag{
+	text-align: center;
+	color: white;
+}
